@@ -1,1 +1,32 @@
 /* Add CSS Styling */
+.number {
+    font-size: 16px;
+    line-height: 1.5;
+    color: #333333;
+    margin-bottom: 15px;
+    background-color: pink;
+    font-family: verdana, DejaVu Sans, sans-serif;
+}
+
+#number2 {
+    font-size: 36px;
+    line-height: 1.6;
+    color: blue;
+    margin-bottom: 15px;
+}
+
+.number.large {
+    font-size: 24px;
+    font-weight: medium;
+    line-height: 1.8;
+    color: black;
+    margin-bottom: 15px;
+}
+
+#number4 {
+    font-size: 24px;
+    font-weight: bold;
+    line-height: 1.4;
+    background-color: green;
+    margin-bottom: 15px;
+}
